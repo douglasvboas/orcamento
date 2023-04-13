@@ -9,35 +9,35 @@
 }
 #fundoIndex{
     /* background-color: rgb(211, 201, 201); */
-    background-image: url("file:///C:/Users/Douglas/git/orcamentoJF/img/logoJetFlow.jpg");
+    background-image: url("file:///C:/Users/Douglas/git/orcamento/img/logoJetFlow.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #fundo{
     /* background-color: rgb(211, 201, 201); */
-    background-image: url("file:///C:/Users/Douglas/git/orcamentoJF/img/fundoPadrao.jpg");
+    background-image: url("file:///C:/Users/Douglas/git/orcamento/img/fundoPadrao.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #fundoOrcamento{
     /* background-color: rgb(211, 201, 201); */
-    background-image: url("file:///C:/Users/Douglas/git/orcamentoJF/img/fundoJet.jpg");
+    background-image: url("file:///C:/Users/Douglas/git/orcamento/img/fundoJet.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #fundocadastro{
     /* background-color: rgb(211, 201, 201); */
-    background-image: url("file:///C:/Users/Douglas/git/orcamentoJF/img/fundoJetAtracado.jpg");
+    background-image: url("file:///C:/Users/Douglas/git/orcamento/img/fundoJetAtracado.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #menuCadastro{
     /* background-color: rgb(211, 201, 201); */
-    background-image: url("file:///C:/Users/Douglas/git/orcamentoJF/img/fundo03.jpg");
+    background-image: url("file:///C:/Users/Douglas/git/orcamento/img/fundo03.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
